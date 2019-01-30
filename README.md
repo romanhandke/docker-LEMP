@@ -1,4 +1,4 @@
-# Docker Container LEMP Stack
+# Docker LEMP Stack
 
 Using:
 
